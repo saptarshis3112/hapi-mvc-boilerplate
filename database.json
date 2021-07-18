@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "database": {
+      "ENV": "DB_NAME"
+    },
+    "host": {
+      "ENV": "DB_HOST"
+    },
+    "driver": {
+      "ENV": "DB_DIALECT"
+    },
+    "password": {
+      "ENV": "DB_PASSWORD"
+    },
+    "port": {
+      "ENV": "DB_PORT"
+    },
+    "user": {
+      "ENV": "DB_USER"
+    }
+  }
+}
